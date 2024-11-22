@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Kauan from Atibaia SP<br><br>- 🔭 I’m working as a financial assistant<br><br>- 📚 I'm currently learning all about coding<br><br>- ⚡ In my free time i play as Teemo in League of Legends and learn how to use code on life.</p>
+<p align="left">I'm Kauan from Atibaia SP<br><br>- 🔭 I’m working as a financial assistant<br><br>- 📚 I'm currently learning all about coding<br><br>- ⚡ In my free time i play as Teemo in League of Legends and learn how to use code in life.</p>
 
 ###
 
