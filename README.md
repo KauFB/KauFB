@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlieG54ZnoxM3lnbGM4a2FraDZhenEwYXVrNmd6dDc3amVyZHA0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJo9h2zrdANo1GO3pd/giphy.webp"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1qd2Nzcmpwc3htaTdsc3BxbjE5d3ZkMzVqdTBoODl5MmJmOGVueiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWD3CtcudWL28/200.webp"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Kauan from Atibaia SP<br><br>- 🔭 I’m working as a financial assistant<br><br>- 📚 I'm currently learning all about coding<br><br>- ⚡ In my free time i play as Teemo in League of Legends and learn how to use code in life.</p>
+<p align="left">I'm Kauan from Atibaia SP<br><br>- 🔭 I’m working as a financial assistant<br><br>- 📚 I'm currently learning all about coding<br><br>- ⚡ In my free time i play as Teemo in League of Legends and learn how to use code on life.</p>
 
 ###
 
@@ -42,18 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1qd2Nzcmpwc3htaTdsc3BxbjE5d3ZkMzVqdTBoODl5MmJmOGVueiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWD3CtcudWL28/200.webp"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KauFB/count.svg?"  />
 </div>
 
 ###
